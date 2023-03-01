@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+header{
+    background-color: black;
+}
+.head-tag{
+    float:right;
+    margin-top: 20px;
+    margin-right: 55px;
+
+}
+.head-tag a{
+    color: azure;
+    text-decoration: none;
+    border: 1PX solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 8PX;
+
+}
+.head-tag a:hover{
+      background-color: blue;
+      color: black;
+      transition: .5s ease-in-out;
+}
